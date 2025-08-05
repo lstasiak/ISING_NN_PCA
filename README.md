@@ -14,7 +14,7 @@ The **Ising (or Lenz-Ising) model** is the most popular and most unversal model 
 
 Basically, we observe the change of the order parameter, which in this case is called magnetization, i.e., average spin in single configuration:
 
-![formula](https://latex.codecogs.com/svg.latex?m%20%3D%20%5Cfrac%7B1%7D%7BN%7D%20%5Csum_%7Bi%3D1%7D%5EN%20s_i)
+![formula](https://latex.codecogs.com/svg.latex?\color{Red}m%20%3D%20\frac{1}{N}%20\sum_{i%3D1}^N%20s_i)
 
 The order parameter is different than zero in low temperatures, that is below the critical point (Curie Temperature) -- which indicates ordered, ferromagnetic phase. If we cross the critical point, i.e., the temperature of the system will be sufficiently high, the order parameter is approximately zero and the system is in paramagnetic (disordered) phase. For Ising model, we assume the critical temperature near T ~ 2.269.
 ___
